@@ -39,15 +39,15 @@
 - Game of Throne                  - Saison 5 - VO - B -
 - Grimm                           - Saison 4 - VO - B -
 
-- Once Upon a Time                - Saison 3 - VF
+- Once Upon a Time                - Saison 4 - VF - B - 
+- Orange is the new black         - Saison 3 - VF - B -
 - Peplum                          - Saison 1 - VF - B -
 - Sherlock                        - Saison 3 - VF - B -
 - The Big Bang Theory             - Saison 8 - VO - B -
 
 ---   ---   ---   ---   ---   ---   ---   ---   ---   ---
 
-- Orange is the new black         - Saison 2 - VF
-
+- Grey's Anatomy                  - Saison 10- VF  
 
 
 ---------------------------------------------------------
@@ -67,20 +67,18 @@ En cours)
 - Beauty and Beast                - Saison 2 - VF - B -
 - Bones                           - Saison 8 - VF - 11 
 - Candice Renoir                  - Saison 3 - VF - B -
-- Grey's Anatomy                  - Saison 10- VF  
 - Perception                      - Saison 2 - VF
-
 - Pretty Little Liar              - Saison 5 - VF - B -
 
 ---   ---   ---   ---   ---   ---   ---   ---   ---   ---
 
-- Vampire Diaries                 - Saison 5 - VF
+- Vampire Diaries                 - Saison 6 - VF - Ep6
 
 ---------------------------------------------------------
      T - THOMAS
 ---------------------------------------------------------
 
-Finies)                                          (- 12 -)
+Finies)                                          (- 13 -)
 
 - Almost Human                    - Saison 1 - VF
 - Breaking Bad                    - Saison 5 - VF
@@ -91,9 +89,10 @@ Finies)                                          (- 12 -)
 - Rome                            - Saison 2 - VF
 - Sons of Anarchy                 - Saison 7 - VF
 - Soprano                         - Saison 6 - VF
+- Star Trek - The Original        - Saison 3 - VF
 - The Fear                        - Saison 1 - VF
-- The Hour                        - Saison 2 - VF
 
+- The Hour                        - Saison 2 - VF
 - The Shield                      - Saison 7 - VF
 - The Wire                        - Saison 5 - VF
 
@@ -109,5 +108,6 @@ En cours)
 
 ---   ---   ---   ---   ---   ---   ---   ---   ---   ---
 
+- Code Quantum                    - Saison 1 - VF
 - Fringe                          - Saison 2 - VF
-- Star Trek - Original            - Saison 2 - VF
+
