@@ -10,41 +10,37 @@ Ted Chiang                - La Tour de Babylone
 Arthur C. Clarke          - 2001
 James S. A. Corey         - L'éveil du Leviathan
 Philip K. Dick            - Nouvelles T1
-Philip K. Dick            - Nouvelles T2
-
 Greg Egan                 - Axiomatique
+
 Greg Egan                 - Radieux
 Neil Gaiman               - American Gods
 M. John Harrison          - L’ombre du Shrander 
 J.P. Jaworski             - Même pas mort - T1
-
 Stephen King              - Pistolero - Les 3 cartes - T2
+
 Stephen King              - Shining
 Stanislas Lem             - Solaris
 Ken Liu                   - La Ménagerie de papier
 China Miéville            - Légationville
+Richard Morgan            - Anges déchus
 
-Richard Morgan            - Carbone Modifié
 Justine Niogret           - Mordred
 Justine Niogret           - Mordre le bouclier
 Gert Nygardshaug          - Le zoo de Mengele - T1
 Patrick O’Leary           - L’oiseau Impossible
-
-Arto Paasilinna           - Le Lièvre de Vatanen
 Prachett                  - La route
+
 Robert Reed               - Le grand vaisseau
 Frank M. Robinson         - Destination ténèbre
 Richard-Paul Russo        - La Nef des fous
-
-John Scalzi               - Redshirts
 Robert Silverberg         - L'homme dans le labyrinthe
 Robert Silverberg         - Les Monades urbaines
+
 Norman Spinrad            - Jack Barron et l’Eternité
 Charles Stross            - Palimpseste
-
 Neal Stephenson           - Cryptonomicron - T1
-J.R.R. Tolkien            - Seigneur des Anneaux - T3
 Peter Watts               - Vision aveugle 
 Peter Watts               - Rifteurs
+
 R.C. Wilson               - Spin
 
