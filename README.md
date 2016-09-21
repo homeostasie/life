@@ -1,7 +1,12 @@
 # life
 
-Organisation de travail !
+Petite sauvegarde de mes différentes listes de lectures et de visionnages.
+En cours et à voir.
 
-Voir issue.
+- Romans / nouvelles
+- BD / manga
 
-Et essai de waffle.io
+- Séries
+- Animes
+
+
