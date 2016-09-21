@@ -1,44 +1,39 @@
 ## Pile à voir
 
-24 Heures Chrono
-30 Rock
-Alias
-Babylon 5
-Band of Brother
+- 24 Heures Chrono
+- 30 Rock
+- Alias
+- Babylon 5
+- Boardwalk Empire
 
-Boardwalk Empire
-Buffy Contre les vampires
-Code Quantum
-Community
-Cosmos 1999
+- Buffy Contre les vampires
+- Community
+- Cosmos 1999
+- Farscape
+- Génération Kill
 
-Farscape
-Génération Kill
-Justified
-Lazy Company
-Le Bureau des Légendes
+- Le Bureau des Légendes
+- Le Prisonnier
+- Lost
+- Mad Men
+- Oz
 
-Le Prisonnier
-Lost
-Mad Men
-Oz
-Parks And Recreation
+- Parks And Recreation
+- Real Humans
+- Rubicon
+- Scrubs
+- Six Pieds sous terre
 
-Real Humans
-Rubicon
-Scrubs
-Six Pieds sous terre
-Star Trek - La Nouvelle Génération
+- Star Trek - La Nouvelle Génération
+- The Corner
+- The IT Crowd
+- The office
+- Treme
 
-The Corner
-The IT Crowd
-Thr office
-Treme
-Twin Peaks
-
-Urgences
-Veronica Mars
-X-Files
+- Twin Peaks
+- Urgences
+- Veronica Mars
+- X-Files
 
 
 

@@ -2,8 +2,7 @@
 En cours
 ---------------------------------------------------------
 
-Dennou Coil
-
+Kill la Kill
 
 ---------------------------------------------------------
  - FINIS
@@ -68,28 +67,29 @@ Wolf's Rain
 
 Abenobashi Magical Shopping Street                       - A -  13 -
 Darker than Black                                   - S1 - A -  25 -
+Dennou Coil                                              - A -  26 -
 Ergo Proxy                                               - A -  23 -
 Enfer Et Paradis - Tenjou Tenge                          - A -  23 -
-Gungrave                                                 - A -  26 -
 
+Gungrave                                                 - A -  26 -
 Haibane Renmei - Ailes grises                            - A -  26 -
 Higashi no Eden                                          - A -  11 -
 L'Autre Monde - Now and Then, Here and There             - A -  13 -
 Last Exile                                          - S1 - A -  26 -
-Mai-HiME                                                 - A -  26 -
 
+Mai-HiME                                                 - A -  26 -
 MushiShi                                            - S1 - A -  25 -
 Planetes                                                 - A -  26 -
 RahXephon                                                - A -  26 -
 Samurai Champloo                                         - A -  26 -
-Seirei no Moribito                                       - A -  26 -
 
+Seirei no Moribito                                       - A -  26 -
 Serial Experiments Lain                                  - A -  13 -
 Soul Eater                                               - A -  51 -
 Space Cobra                                              - A -  31 -
 Tengen Toppa Gurren Lagann                               - A -  27 -
-Texhnolyze                                               - A -  22 -
 
+Texhnolyze                                               - A -  22 -
 Toradora !                                               - A -  22 -
 Trigun                                                   - A -  26 -
 
@@ -116,6 +116,13 @@ Satoshi Kon
     xxx Paprika
     --- Paranoia Agent                                    - A -  13 -
     xxx Perfect Blue
+
+Mamoru Hosoda
+-------------
+
+    xxx Les Enfants Loups, Ame & Yuki
+    xxx Le Garçon et la Bête
+    xxx Summer Wars
 
 OneShot
 -------
