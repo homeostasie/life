@@ -1,0 +1,44 @@
+" Basic interface
+
+set background=dark		" Fond
+
+syntax on
+set nocompatible        	" Amélioration
+filetype plugin indent on       " Accepter les plugins
+
+set tabstop=2
+set shiftwidth=2
+set expandtab
+set listchars=eol:¤,trail:-
+
+set mouse=a     		" Click de souris
+set t_Co=256    		" Plus de couleur
+set linebreak
+
+" Numbre de ligne
+set relativenumber		"Toujours sur la ligne 0
+set ruler			"ligne et colonne en bas à droite
+hi cursorlinenr   ctermfg=black ctermbg=white term=bold guifg=black guibg=white
+
+" Ligne de commandes
+set showcmd			"toujours voir les commandes
+set statusline=%<%f%h%m%r%=%l,%c\ %P
+set laststatus=2     		" always show statusline
+
+" Comportement
+set history=200         	" default 20
+set iskeyword+=_,$,@,%,#        " not word dividers
+
+"set listchars=tab:>\           " > to highlight <tab>>
+"set list
+
+set mousemodel=popup
+
+
+" Cursor
+set cursorline
+highlight Cursorline cterm=none ctermbg=none
+
+autocmd InsertEnter * highlight cursorlinenr  ctermfg=black ctermbg=red term=bold 
+autocmd InsertLeave * highlight cursorlinenr  ctermfg=black ctermbg=white term=bold 
+
